@@ -1,9 +1,0 @@
-apiVersion: fico.com/v1alpha1
-kind: CreateWebsite
-metadata:
-  name: incapsula-test-claim
-spec:
-  parameters:
-    accountId: 2226049
-    website: "demo.k8s.awsficotraining.com"
-    # enableZPA: true
